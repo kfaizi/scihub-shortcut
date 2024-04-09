@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "raven",
+  "version": "1.0",
+  "description": "add custom option to hyperlink context menu",
+  "permissions": [
+    "contextMenus"
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "applications": {
+    "gecko": {
+      "id": "hyperlink-context@example.com"
+    }
+  }
+}
+
