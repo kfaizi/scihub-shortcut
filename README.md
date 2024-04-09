@@ -20,9 +20,7 @@ obviously this is necessarily an unsigned (& hence local-use-only) extension.
 3. right-click on the DOI of the offending paper
 4. select `Open with Sci-Hub` from the context menu
 
-## etc
-
-[^1]: i would _never_ condone the use of such offensive & indecent webservices as Sci-Hub, which claim to champion "freedom" and access to knowledge as a "human right".
+[^1]: i would _never_ condone the use of such offensive & indecent webservices as Sci-Hub, which claim to champion "freedom" & access to knowledge as a "human right".
 the academics interacting with this git repo obviously know better; [we love JSTOR!](https://en.wikipedia.org/wiki/Aaron_Swartz#Death)
 
 
