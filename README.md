@@ -1,5 +1,7 @@
 # scihub-shortcut
 
+![we love u carmen ortiz](assets/carmen_ortiz_96.png) ![we love u stephen heymann](assets/stephen_heymann_96.png)
+
 this is a quick & dirty Firefox extension for easily querying Sci-Hub for a [DOI](https://www.doi.org/the-identifier/what-is-a-doi/) of interest.[^1]
 
 at present it does the bare minimum: no regex to enforce valid syntax, no checking for alternate mirrors.
@@ -23,7 +25,7 @@ obviously this is necessarily an unsigned (& hence local-use-only) extension.
 
 ## etc
 
-[dedicated](https://en.wikipedia.org/wiki/United_States_v._Swartz) to former US attorney [carmen milagros ortiz](https://en.wikipedia.org/wiki/Carmen_Ortiz#Prosecution_of_Aaron_Swartz) (#girlboss!) & former assistant US attorney [stephen "fine, we'll lock him up" heymann](https://en.wikipedia.org/wiki/Stephen_Heymann).
+[dedicated](https://en.wikipedia.org/wiki/United_States_v._Swartz) to former US attorney [carmen milagros ortiz](https://en.wikipedia.org/wiki/Carmen_Ortiz#Prosecution_of_Aaron_Swartz) (#girlboss!) & former assistant US attorney [stephen "fine, we'll lock him up" heymann](https://en.wikipedia.org/wiki/Stephen_Heymann) <3
 
 [^1]: i would _never_ condone the use of such offensive & indecent webservices as Sci-Hub, which claim to champion "freedom" & access to knowledge as a "human right".
 the academics interacting with this git repo obviously know to use JSTOR instead!
