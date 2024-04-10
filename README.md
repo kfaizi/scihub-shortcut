@@ -2,7 +2,8 @@
 
 this is a quick & dirty Firefox extension for easily querying Sci-Hub for a [DOI](https://www.doi.org/the-identifier/what-is-a-doi/) of interest.[^1]
 
-at present it does the bare minimum: no regex to enforce valid syntax, no checking for alternate mirrors, & no overall aesthetic care. this might change in the future.
+at present it does the bare minimum: no regex to enforce valid syntax, no checking for alternate mirrors.
+this might change in the future.
 
 obviously this is necessarily an unsigned (& hence local-use-only) extension.
 
@@ -20,7 +21,10 @@ obviously this is necessarily an unsigned (& hence local-use-only) extension.
 3. right-click on the DOI of the offending paper
 4. select `Open with Sci-Hub` from the context menu
 
-[^1]: i would _never_ condone the use of such offensive & indecent webservices as Sci-Hub, which claim to champion "freedom" & access to knowledge as a "human right".
-the academics interacting with this git repo obviously know better; [we love JSTOR!](https://en.wikipedia.org/wiki/Aaron_Swartz#Death)
+## etc
 
+[dedicated](https://en.wikipedia.org/wiki/United_States_v._Swartz) to former US attorney [carmen milagros ortiz](https://en.wikipedia.org/wiki/Carmen_Ortiz#Prosecution_of_Aaron_Swartz) (#girlboss!) & former assistant US attorney [stephen "fine, we'll lock him up" heymann](https://en.wikipedia.org/wiki/Stephen_Heymann).
+
+[^1]: i would _never_ condone the use of such offensive & indecent webservices as Sci-Hub, which claim to champion "freedom" & access to knowledge as a "human right".
+the academics interacting with this git repo obviously know to use JSTOR instead!
 

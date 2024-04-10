@@ -1,18 +1,19 @@
 {
-  "manifest_version": 2,
-  "name": "raven",
+  "manifest_version": 3,
+  "name": "scihub-shortcut",
   "version": "1.0",
-  "description": "add custom option to hyperlink context menu",
+  "author": "your mom",
+  "homepage_url": "https://github.com/kfaizi/scihub-shortcut",
+  "description": "search Sci-Hub for a DOI with a click",
+  "icons": {
+    "48": "assets/stephen_heymann_48.png",
+    "96": "assets/stephen_heymann_96.png"
+  },
   "permissions": [
     "contextMenus"
   ],
   "background": {
     "scripts": ["background.js"]
-  },
-  "applications": {
-    "gecko": {
-      "id": "hyperlink-context@example.com"
-    }
   }
 }
 
